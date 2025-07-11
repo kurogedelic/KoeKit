@@ -1,0 +1,40 @@
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Development files
+CLAUDE.md
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# Documentation build
+node_modules/
+.vitepress/cache/
+.vitepress/dist/
+
+# Arduino IDE
+*.ino.hex
+*.ino.elf
+*.ino.bin
+*.ino.map
+
+# Backup files
+*.bak
+*.backup
+*.orig
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-*
+
+# OS generated files
+*.log
