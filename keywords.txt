@@ -1,0 +1,42 @@
+#######################################
+# Syntax Coloring Map For KoeKit
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+KoeKit	KEYWORD1
+AudioEngine	KEYWORD1
+Oscillator	KEYWORD1
+LUTTicker	KEYWORD1
+PhaseOscillator	KEYWORD1
+Filter	KEYWORD1
+OnePole	KEYWORD1
+StateVariable	KEYWORD1
+ADSR	KEYWORD1
+Wavetables	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+process	KEYWORD2
+tick	KEYWORD2
+setFrequency	KEYWORD2
+setAmplitude	KEYWORD2
+setCutoff	KEYWORD2
+setResonance	KEYWORD2
+noteOn	KEYWORD2
+noteOff	KEYWORD2
+reset	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+SINE_TABLE	LITERAL1
+SAW_TABLE	LITERAL1
+SQUARE_TABLE	LITERAL1
+TRIANGLE_TABLE	LITERAL1

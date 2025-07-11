@@ -1,0 +1,28 @@
+{
+  "name": "koekit-docs",
+  "version": "1.0.0",
+  "description": "KoeKit Audio Synthesis Library Documentation",
+  "type": "module",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "devDependencies": {
+    "vitepress": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kurogedelic/KoeKit.git"
+  },
+  "keywords": [
+    "arduino",
+    "rp2350",
+    "audio",
+    "synthesis",
+    "embedded",
+    "documentation"
+  ],
+  "author": "Leo Kuroshita <leo@hugelton.com> (Hugelton Instruments)",
+  "license": "LGPL-3.0"
+}
