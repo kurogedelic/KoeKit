@@ -82,8 +82,8 @@ export default defineConfig({
 
     // Footer
     footer: {
-      message: 'Released under the MIT License.',
-      copyright: 'Copyright © 2024 KoeKit Development Team'
+      message: 'Released under the LGPL-3.0 License.',
+      copyright: 'Copyright © 2024 Leo Kuroshita for Hugelton Instruments'
     },
 
     // Search
@@ -109,14 +109,7 @@ export default defineConfig({
 
   // Markdown configuration
   markdown: {
-    lineNumbers: true,
-    
-    // Code highlighting for Arduino/C++
-    languages: [
-      'cpp',
-      'c',
-      'arduino'
-    ]
+    lineNumbers: true
   },
 
   // Head configuration for meta tags
